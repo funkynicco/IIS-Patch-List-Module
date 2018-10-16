@@ -1,0 +1,5 @@
+# gitignore
+.vs/
+build/
+
+*.user
